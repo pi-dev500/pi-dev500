@@ -1,0 +1,50 @@
+UDI-DI de la boite
+Code article principal représentant l’UD-DI
+2.2) Type de certificat
+2.2) Numéro de certificat
+2.2) Date d'expiration du certificat
+2.2) Nom et/ou numéro d'identification organisme notifié
+2.2) Lien vers les informations du certificat
+2.3) Etat membre mise sur le marché 
+2.4) Classe IIa, IIb ou III : États membres mise à disposition
+2.5) Classe DM
+2.6) Dispositif à usage unique retraité ? (OUI/NON)
+2.7) Présence de substance considérée comme médicament? (OUI/NON)
+2.7) Nom de cette substance
+2.8) Présence substance considérée comme médicament dérivé du sang ou du plasma d'origine humaine? (OUI/NON)
+2.8) Nom de cette substance
+2.9) Présence cellules/tissus d'origine humaine, ou de leurs dérivés?  (OUI/NON)
+2.10) Présence cellules/ tissus d'origine animale, ou de leurs dérivés ? (OUI/NON)
+2.11) (A) Numéro identification unique des investigations cliniques ou lien vers leurs enregistrements
+2.12) Annexe XVI : Destination non médicale ? (OUI/NON)
+2.13)  Coordonnées sous-traitant conception/fabrication
+2.14) DM classe III ou DM implantables :  résumé des caractéristiques de sécurité et des performances cliniques
+2.15) Statut du DM (sur le marché, arrêté, rappelé, mesures correctives de sécurité)
+1) Quantité par unité de conditionnement
+2) IUD-DI de base 
+2) UDI-DI supplémentaires (GTIN)
+3) Manière de contrôler la production du DM  (date d'expiration ou date de fabrication, numéro de lot, numéro de série)
+4) (A) ID de l'unité d'utilisation UDI-ID pour un patient
+5) Nom et adresse du fabricant 
+6) Numéro d'enregistrement unique (SRN) 
+7) (A) Nom et adresse du mandataire 
+8) Code CND
+9) Classe DM
+10) (A) Nom ou la dénomination commerciale  
+11) (A) Modèle du dispositif, référence ou numéro dans le catalogue
+12) (A) Dimensions cliniques (longueur, calibre, diamètre) 
+13) (F) Description supplémentaire du produit 
+14) (A) Conditions de stockage et/ou de manipulation 
+15) (A) Autres dénominations commerciales du DM
+16) Etiqueté comme un dispositif à usage unique? (OUI/NON)
+17) (A) Nombre maximal de réutilisations
+18) DM étiqueté comme stérile? (OUI/NON)
+19) Stérilisation nécessaire avant utilisation? (OUI/NON)
+20) DM contenant du latex? (OUI/NON)
+21) (A) Informations CMR et perturbateurs endocriniens (cf annexe I, section 10.4.5)
+22) (F) URL informations supplémentaires
+23) (A) Mises en garde ou contre-indications importantes
+24) Statut du DM (sur le marché, arrêté, rappelé, mesures correctives de sécurité)
+En attente d’OK ARE
+Date de dernière extraction pour publication
+Doit être publié/republié

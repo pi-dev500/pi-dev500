@@ -1,0 +1,204 @@
+  <div class="form-example">
+    <label for="type_cert">UDI-DI de la boite </label>
+    <input type="text" name="udi-didelaboite" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">UDI-DI de la boite </label>
+    <input type="text" name="udi-didelaboite" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">Code article principal représentant l’UD-DI </label>
+    <input type="text" name="codearticleprincipalreprésentantl’ud-di" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.2) Type de certificat </label>
+    <input type="text" name="2.2)typedecertificat" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.2) Numéro de certificat </label>
+    <input type="text" name="2.2)numérodecertificat" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.2) Date d'expiration du certificat </label>
+    <input type="text" name="2.2)dated'expirationducertificat" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.2) Nom et/ou numéro d'identification organisme notifié </label>
+    <input type="text" name="2.2)nomet/ounumérod'identificationorganismenotifié" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.2) Lien vers les informations du certificat </label>
+    <input type="text" name="2.2)lienverslesinformationsducertificat" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.3) Etat membre mise sur le marché  </label>
+    <input type="text" name="2.3)etatmembremisesurlemarché" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.4) Classe IIa, IIb ou III : États membres mise à disposition </label>
+    <input type="text" name="2.4)classeiia,iibouiii:Étatsmembresmiseàdisposition" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.5) Classe DM </label>
+    <input type="text" name="2.5)classedm" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.6) Dispositif à usage unique retraité c (OUI/NON) </label>
+    <input type="text" name="2.6)dispositifàusageuniqueretraité?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.7) Présence de substance considérée comme médicament? (OUI/NON) </label>
+    <input type="text" name="2.7)présencedesubstanceconsidéréecommemédicament?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.7) Nom de cette substance </label>
+    <input type="text" name="2.7)nomdecettesubstance" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.8) Présence substance considérée comme médicament dérivé du sang ou du plasma d'origine humaine? (OUI/NON) </label>
+    <input type="text" name="2.8)présencesubstanceconsidéréecommemédicamentdérivédusangouduplasmad'originehumaine?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.8) Nom de cette substance </label>
+    <input type="text" name="2.8)nomdecettesubstance" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.9) Présence cellules/tissus d'origine humaine, ou de leurs dérivés? (OUI/NON) </label>
+    <input type="text" name="2.9)présencecellules/tissusd'originehumaine,oudeleursdérivés?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.10) Présence cellules/ tissus d'origine animale, ou de leurs dérivés c (OUI/NON) </label>
+    <input type="text" name="2.10)présencecellules/tissusd'origineanimale,oudeleursdérivés?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.11) (A) Numéro identification unique des investigations cliniques ou lien vers leurs enregistrements </label>
+    <input type="text" name="2.11)(a)numéroidentificationuniquedesinvestigationscliniquesoulienversleursenregistrements" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.12) Annexe XVI : Destination non médicale c (OUI/NON) </label>
+    <input type="text" name="2.12)annexexvi:destinationnonmédicale?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.13) Coordonnées sous-traitant conception/fabrication </label>
+    <input type="text" name="2.13)coordonnéessous-traitantconception/fabrication" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.14) DM classe III ou DM implantables : résumé des caractéristiques de sécurité et des performances cliniques </label>
+    <input type="text" name="2.14)dmclasseiiioudmimplantables:résumédescaractéristiquesdesécuritéetdesperformancescliniques" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2.15) Statut du DM (sur le marché, arrêté, rappelé, mesures correctives de sécurité) </label>
+    <input type="text" name="2.15)statutdudm(surlemarché,arrêté,rappelé,mesurescorrectivesdesécurité)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">1) Quantité par unité de conditionnement </label>
+    <input type="text" name="1)quantitéparunitédeconditionnement" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2) IUD-DI de base  </label>
+    <input type="text" name="2)iud-didebase" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">2) UDI-DI supplémentaires (GTIN) </label>
+    <input type="text" name="2)udi-disupplémentaires(gtin)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">3) Manière de contrôler la production du DM (date d'expiration ou date de fabrication, numéro de lot, numéro de série) </label>
+    <input type="text" name="3)manièredecontrôlerlaproductiondudm(dated'expirationoudatedefabrication,numérodelot,numérodesérie)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">4) (A) ID de l'unité d'utilisation UDI-ID pour un patient </label>
+    <input type="text" name="4)(a)iddel'unitéd'utilisationudi-idpourunpatient" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">5) Nom et adresse du fabricant  </label>
+    <input type="text" name="5)nometadressedufabricant" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">6) Numéro d'enregistrement unique (SRN)  </label>
+    <input type="text" name="6)numérod'enregistrementunique(srn)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">7) (A) Nom et adresse du mandataire  </label>
+    <input type="text" name="7)(a)nometadressedumandataire" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">8) Code CND </label>
+    <input type="text" name="8)codecnd" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">9) Classe DM </label>
+    <input type="text" name="9)classedm" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">10) (A) Nom ou la dénomination commerciale  </label>
+    <input type="text" name="10)(a)nomouladénominationcommerciale" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">11) (A) Modèle du dispositif, référence ou numéro dans le catalogue </label>
+    <input type="text" name="11)(a)modèledudispositif,référenceounumérodanslecatalogue" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">12) (A) Dimensions cliniques (longueur, calibre, diamètre)  </label>
+    <input type="text" name="12)(a)dimensionscliniques(longueur,calibre,diamètre)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">13) (F) Description supplémentaire du produit  </label>
+    <input type="text" name="13)(f)descriptionsupplémentaireduproduit" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">14) (A) Conditions de stockage et/ou de manipulation  </label>
+    <input type="text" name="14)(a)conditionsdestockageet/oudemanipulation" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">15) (A) Autres dénominations commerciales du DM </label>
+    <input type="text" name="15)(a)autresdénominationscommercialesdudm" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">16) Etiqueté comme un dispositif à usage unique? (OUI/NON) </label>
+    <input type="text" name="16)etiquetécommeundispositifàusageunique?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">17) (A) Nombre maximal de réutilisations </label>
+    <input type="text" name="17)(a)nombremaximalderéutilisations" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">18) DM étiqueté comme stérile? (OUI/NON) </label>
+    <input type="text" name="18)dmétiquetécommestérile?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">19) Stérilisation nécessaire avant utilisation? (OUI/NON) </label>
+    <input type="text" name="19)stérilisationnécessaireavantutilisation?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">20) DM contenant du latex? (OUI/NON) </label>
+    <input type="text" name="20)dmcontenantdulatex?(oui/non)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">21) (A) Informations CMR et perturbateurs endocriniens (cf annexe I, section 10.4.5) </label>
+    <input type="text" name="21)(a)informationscmretperturbateursendocriniens(cfannexei,section10.4.5)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">22) (F) URL informations supplémentaires </label>
+    <input type="text" name="22)(f)urlinformationssupplémentaires" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">23) (A) Mises en garde ou contre-indications importantes </label>
+    <input type="text" name="23)(a)misesengardeoucontre-indicationsimportantes" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">24) Statut du DM (sur le marché, arrêté, rappelé, mesures correctives de sécurité) </label>
+    <input type="text" name="24)statutdudm(surlemarché,arrêté,rappelé,mesurescorrectivesdesécurité)" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">En attente d’OK ARE </label>
+    <input type="text" name="enattented’okare" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">Date de dernière extraction pour publication </label>
+    <input type="text" name="datededernièreextractionpourpublication" id="type_cert" >
+  </div>
+  <div class="form-example">
+    <label for="type_cert">Doit être publié/republié </label>
+    <input type="text" name="doitêtrepublié/republié" id="type_cert" >
+  </div>
