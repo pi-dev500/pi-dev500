@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pi-dev500
 - 👀 I’m interested in shell script,python and html
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on Eudamed
+- 💞️ I’m looking to collaborate on pi-apps
 - 📫 How to reach me: just open an issue at https://github.com/pi-dev500/pi-dev500
 
 <!---
