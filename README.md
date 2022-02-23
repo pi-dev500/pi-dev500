@@ -2,7 +2,7 @@
 - 👀 I’m interested in shell script,python and html
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on Eudamed
-- 📫 How to reach me rob500.ursin@gmail.com
+- 📫 How to reach me: just open an issue at https://github.com/pi-dev500/pi-dev500
 
 <!---
 pi-dev500/pi-dev500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
