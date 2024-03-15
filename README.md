@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pi-dev500, a 15 years old  programmer
+- 👋 Hi, I’m @pi-dev500, a 16 years old  programmer
 - 👀 I’m interested in shell script,python and html, and for the most, in the open-source software
 - 🌱 I’m starting JAVA to help me understand issues with Minecraft.
 - 💞️ I’m looking to collaborate on pi-apps to make a touchscreen interface and much more
